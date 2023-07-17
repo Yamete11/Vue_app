@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "vinEGwHboA6CJ6pHAN0ZL3yMvRC5p8GBl/NZ80CIaCGxzQi4mR4aWGZHjqCLeYdhAhzzWc2+LYSvLKehAHtdlA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Glebasher\\WebstormProjects\\Vue_app\\AuthorizeApp\\AuthorizeApp\\AuthorizeApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Glebasher\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Glebasher\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Glebasher\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Glebasher\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Glebasher\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Glebasher\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
+    "C:\\Users\\Glebasher\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
